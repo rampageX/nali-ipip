@@ -62,7 +62,7 @@ EOF
 
 cat > bin/nali-update << EOF
 #!/bin/sh
-ipipdb_dat_url="https://cdn.ipip.net/17mon/17monipdb.datx";
+qqwry_dat_url="https://cdn.jsdelivr.net/gh/out0fmemory/qqwry.dat/qqwry_lastest.dat";
 ipipdb_dat_local_path="$datadir/17monipdb.datx"
 curl=\`which curl\`
 wget=\`which wget\`
